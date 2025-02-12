@@ -1,6 +1,6 @@
 # eCommerce-Data-Analysis-and-ML
 
-Project Overview
+Project Overview:
 This project focuses on leveraging machine learning to analyze eCommerce data and predict factors influencing purchases on an eCommerce website. The project involves exploring and merging large datasets to identify key features that drive consumer behavior and enhance the online shopping experience.
 
 Key Features:
